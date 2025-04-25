@@ -4,5 +4,5 @@ Este proyecto implementa un catálogo de vehículos con filtros avanzados, gener
 
 Video: https://youtu.be/EY75HGxnYuM?si=uD7aayDwU9GwqgPA
 
-Miguel Angel Marín Mejía
-Juan Diego Albanez López
+Miguel Angel Marín Mejía. 
+Juan Diego Albanez López. 
